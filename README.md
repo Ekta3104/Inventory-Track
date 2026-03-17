@@ -44,4 +44,3 @@ This system allows user authentication, product management, sales tracking, and 
 ---
 
 
-cd inventory-management-system
