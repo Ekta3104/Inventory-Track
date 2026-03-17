@@ -28,7 +28,7 @@ This system allows user authentication, product management, sales tracking, and 
 - Data populated from MongoDB
 - Easy-to-read table with product info and sale totals
 
-### ✅ Dashboard (Optional)
+### ✅ Dashboard
 - Total products
 - Total sales
 - Low stock alerts
